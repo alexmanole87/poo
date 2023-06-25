@@ -1,0 +1,3 @@
+D:/personale/ase/POO/Incercari/inc1/cmake-build-debug/CMakeFiles/inc1.dir
+D:/personale/ase/POO/Incercari/inc1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/personale/ase/POO/Incercari/inc1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
